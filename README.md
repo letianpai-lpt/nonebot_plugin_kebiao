@@ -1,0 +1,2 @@
+# nonebot_plugin_kebiao
+实现对正方教务系统课表的推送
