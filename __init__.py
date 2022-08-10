@@ -16,7 +16,7 @@ global key
 #配置文件的地址
 furl="/root/bot/lolbot/lolbot/src/plugins/nonebot_plugin_kebiao/qqinfo.json"
 #和风天气的个人开发者key
-key="4e7fe30df877402bb5f20bbfed95350e"
+key="4e7fe30df877****************"
 
 
 
