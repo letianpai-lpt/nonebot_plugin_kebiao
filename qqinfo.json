@@ -1,0 +1,18 @@
+{
+    "注释":"格式类似下面的格式,kbinfo是课表json的文件地址,starttime是一个年月日的列表,city是你学校所在的城市,此处修改后即即时生效,不用重启bot",
+    "280310454":{
+        "kbinfo":"/root/bot/lolbot/lolbot/data/kebiao/kb.json",
+        "starttime":[2022,8,1],
+        "city":"中原"
+    },
+    "2991590296":{
+        "kbinfo":"/root/bot/lolbot/lolbot/data/kebiao/jckb.json",
+        "starttime":[2022,8,1],
+        "city":"孝感"
+    },
+    "2650571583":{
+        "kbinfo":"/root/bot/lolbot/lolbot/data/kebiao/cjkb.json",
+        "starttime":[2022,8,1],
+        "city":"中原"
+    }
+}
